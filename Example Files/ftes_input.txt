@@ -1,0 +1,67 @@
+Suffix for ouput file:
+longaxis_32layer_sigma12_av5_SI_TextIm
+Running and averaging output over X simulations:
+1
+Is this a thickness scan? If yes, averaging must be set to 1!
+No
+Acceleration Voltage in keV:
+300
+Size of Simulated Super Cell:
+19
+20
+Thickness in molecular layers:
+32
+Approximate thickness of each slice in Angstroem
+16.6481
+Sigma of the random noise affecting all atoms
+0.00
+Debye-Waller-Factor (non-standard defintion)
+0
+Array size (max h and k indeces = size of output pattern):
+1024
+1024
+Coordinate systems (defined by 3 atoms, indices start at 0!):
+Coordinate System:   6, 26, 1
+Phonons (rot/trans, Sigma, Group, CoordSys, long, short, pi-pi):
+Phonon: trans, 0.12, 1, 0, 1, 0, 0
+GroupOfInterest (divides atoms of an unit cell in groups):
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
